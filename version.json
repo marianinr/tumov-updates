@@ -1,1 +1,7 @@
-
+{
+  "versionCode": 132,
+  "versionName": "1.7.103",
+  "releaseNotes": "Correcciones y mejoras. Actualización recomendada.",
+  "apkUrl": "https://raw.githubusercontent.com/marianinr/tumov-updates/main/release.apk",
+  "forceUpdate": false
+}
