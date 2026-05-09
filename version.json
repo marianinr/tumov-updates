@@ -1,7 +1,7 @@
 {
   "versionCode": 132,
-  "versionName": "1.7.104",
-  "releaseNotes": "Correcciones y mejoras. Actualización recomendada.",
+  "versionName": "1.7.103",
+  "releaseNotes": "Corrección del cierre al reproducir algunos títulos (OpenSubtitles). Otras mejoras y estabilidad. Actualización recomendada.",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/tumov-updates/main/release.apk",
   "forceUpdate": false
 }
