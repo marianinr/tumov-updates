@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "1.7.104",
-  "releaseNotes": "Actualización de proveedores y extractores: SoloLatino, FlixLatam, Cuevana 3, Cine24h y extractores de video (Filemoon, VidxGo, etc.). Mejoras de red TLS y estabilidad en reproducción. Actualización recomendada.",
+  "versionCode": 134,
+  "versionName": "1.7.105",
+  "releaseNotes": "Corrección de cortes de reproducción tras varios minutos (timeouts HTTP del reproductor, headers CDN y tokens). Mejor estabilidad en streams HLS largos.",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/tumov-updates/main/release.apk"
 }
