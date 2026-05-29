@@ -1,7 +1,6 @@
 {
-  "versionCode": 132,
-  "versionName": "1.7.103",
-  "releaseNotes": "Corrección del cierre al reproducir algunos títulos (OpenSubtitles). Otras mejoras y estabilidad. Actualización recomendada.",
-  "apkUrl": "https://raw.githubusercontent.com/marianinr/tumov-updates/main/release.apk",
-  "forceUpdate": false
+  "versionCode": 133,
+  "versionName": "1.7.104",
+  "releaseNotes": "Actualización de proveedores y extractores: SoloLatino, FlixLatam, Cuevana 3, Cine24h y extractores de video (Filemoon, VidxGo, etc.). Mejoras de red TLS y estabilidad en reproducción. Actualización recomendada.",
+  "apkUrl": "https://raw.githubusercontent.com/marianinr/tumov-updates/main/release.apk"
 }
