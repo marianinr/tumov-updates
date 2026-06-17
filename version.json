@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "1.7.105",
-  "releaseNotes": "Corrección de cortes de reproducción tras varios minutos (timeouts HTTP del reproductor, headers CDN y tokens). Mejor estabilidad en streams HLS largos.",
+  "versionCode": 136,
+  "versionName": "1.7.107",
+  "releaseNotes": "StreamingCommunity (EN): catálogo y reproducción operativos. Fix Vixcloud en release (sin Gson/R8). Limpieza de proveedores, failover automático de servidores, LaMovie en carousel y orden de servidores mejorado. Estabilidad del reproductor y extractores.",
   "apkUrl": "https://raw.githubusercontent.com/marianinr/tumov-updates/main/release.apk"
 }
